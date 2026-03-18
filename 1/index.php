@@ -12,7 +12,6 @@
             <label for="">Nome</label>
             <input  type="text" name="nome" id="">
             <input type="submit" value="Enviar">
-        
         </pre>
 
 </body>
