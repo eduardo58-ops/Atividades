@@ -1,11 +1,15 @@
  <?php
-    $n1 = $_POST['N1']
-    $n2 = $_POST['N2']
-    $n3 = $_POST['N3']
+    $n1 = $_POST['n1'];
+    $n2 = $_POST['n2'];
+    $n3 = $_POST['n3'];
 
-  if
+  $m = ($n1 + $n2+ $n3)/3;
 
-        echo "Insira suas notas";
-      exit;
-    }
+  if ($m>=7) {
+  echo "Passou de ano!";
+  
+  }else {
+    echo "Reprovado";
+  }
+
 ?>

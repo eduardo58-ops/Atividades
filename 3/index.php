@@ -7,9 +7,10 @@
 </head>
 <body>
         <form action="comparar.php" method="post">
-            <input type "text" name"n1"><br>
-            <input type "text" name"n2"><br>
-            <input type "text" name"n3"><br>
+            <label for="">Insira suas notas:</label><br>
+            <input type ="text" name = "n1"><br>
+            <input type ="text" name = "n2"><br>
+            <input type ="text" name ="n3"><br>
             <button type="submit">Somar</button>
         </form>
 </body>
