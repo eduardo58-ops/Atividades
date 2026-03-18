@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DocumenConversor de temperatura de °C para °F</title>
+    <title>Conversor de temperatura de °C para °F</title>
 </head>
 <body>
             <form action="conversor.php" method="post">
