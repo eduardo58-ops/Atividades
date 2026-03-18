@@ -3,6 +3,6 @@
 
     $f = $c * 9/5 + 32;
 
-    echo "A temperatura em °F é: ".$f
+    echo "A temperatura em °F é: ".$f;
 
 ?>
